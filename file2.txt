@@ -1,1 +1,3 @@
 Practicando Git desde cero
+Practicando con ramas
+Modificando rama1
