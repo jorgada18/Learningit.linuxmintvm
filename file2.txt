@@ -1,3 +1,0 @@
-Fernandito aprendiendo GIT
-Modificando este file para ver cambios en GIT
-Realizando cambio en el file comiteado.
